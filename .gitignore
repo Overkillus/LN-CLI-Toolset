@@ -1,0 +1,8 @@
+.direnv
+.envrc
+__pycache__
+output/channels.csv
+output/edges.csv
+output/nodes.csv
+data/gossip-20220823.gsp.bz2
+src/__pycache__
