@@ -1,0 +1,8 @@
+python .\__main__.py generator network 123 11981 --stats --multiplier 1.162
+Network statistics:
+Average number of nodes:  11981.0
+Average number of edges:  63285.0  Standard Deviation:  0.0
+Average degree:  10.56422669226275  Standard Deviation:  0.0
+Average highest degree:  1322.0  Standard Deviation:  0.0
+Average number of nodes with degree > 100: 205.0  Standard Deviation:  0.0
+Average degree of neighbours of nodes with degree 1:  1030.2073711219966  Standard Deviation:  0.0

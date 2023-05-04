@@ -1,0 +1,7 @@
+python .\__main__.py timemachine restore ..\data\gossip-20220823.gsp.bz2 1594814400 60 --normalise –policies
+
+Number of nodes:  6116
+Number of edges(bidirectional):  38552.0
+Average degree:  12.606932635709613
+Highest degree:  1391
+Average number of nodes with degree > 100: 108

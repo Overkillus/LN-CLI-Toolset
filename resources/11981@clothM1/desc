@@ -1,0 +1,7 @@
+python .\__main__.py grapher node-degrees --percentage --cropx 95 --path ..\..\resources\11981@clothM1\ --describe
+Number of nodes:  11982
+Number of edges(bidirectional):  36433.0
+Average degree:  6.081288599566015
+Highest degree:  1335
+Average number of nodes with degree > 100: 98
+Percentage of nodes under 10: 91.14505090969787
