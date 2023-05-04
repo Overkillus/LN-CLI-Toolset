@@ -8,6 +8,8 @@ This tool features 3 distinct modules:
 Help and tool descriptions can be accessed through the tool with the --help flag.
 
 For example:
-python .\__main__.py --help
-python .\__main__.py timemachine --help
+
+python .\\__main__.py --help
+
+python .\\__main__.py timemachine --help
 etc
